@@ -1,2 +1,2 @@
 # VaR-CVaR
-Value-at-Risk and Expected Shortfall calculations with different approaches.
+Value-at-Risk and Expected Shortfall calculations by different approaches.
