@@ -1,5 +1,5 @@
 # VaR-CVaR
-This mini lecture calculates Value-at-Risk (VaR) and Expected Shortfall Monte Carlo simulations by different methodologies.
+This mini lecture calculates Value-at-Risk (VaR) and Expected Shortfall (cVaR) Monte Carlo simulations by different methodologies.
 The following methods are used to calculate VaR and cVaR:
 - Using the hitorical data.
 - Simulating normal returns from estimated moments of the data.
