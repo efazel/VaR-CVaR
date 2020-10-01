@@ -4,4 +4,4 @@ The following methods are used to calculate VaR and cVaR:
 - Hitorical data.
 - Simulation from normal returns from estimated moments of the data.
 - Drawing IID samples from empirical distribution of the data.
-- Performing simulation from the estimated student-t distribution by MLE.
+- Simulation from the estimated student-t distribution by MLE.
